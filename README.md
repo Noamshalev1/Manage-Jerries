@@ -1,4 +1,4 @@
-# Manage-Jerry
+# Manage-Jerries
 Inspired by Rick and Morty
 
 At first I will explain shortly what the code does:
